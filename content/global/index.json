@@ -17,6 +17,10 @@
         "label": "Über uns"
       },
       {
+        "href": "anreise",
+        "label": "Anreise"
+      },
+      {
         "href": "/posts",
         "label": "Presse"
       }
