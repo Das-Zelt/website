@@ -23,6 +23,10 @@
       {
         "href": "/posts",
         "label": "Presse"
+      },
+      {
+        "href": "programm",
+        "label": "Programm"
       }
     ]
   },
