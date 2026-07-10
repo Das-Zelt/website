@@ -5,7 +5,7 @@
       "color": "orange",
       "style": "float"
     },
-    "name": "Tina Starter",
+    "name": "Das Zelt",
     "color": "default",
     "nav": [
       {
@@ -14,11 +14,11 @@
       },
       {
         "href": "/about",
-        "label": "About"
+        "label": "Über uns"
       },
       {
         "href": "/posts",
-        "label": "Blog"
+        "label": "Presse"
       }
     ]
   },
