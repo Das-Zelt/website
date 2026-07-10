@@ -13,20 +13,20 @@
         "label": "Home"
       },
       {
-        "href": "/about",
-        "label": "Über uns"
+        "href": "programm",
+        "label": "Programm"
       },
       {
         "href": "anreise",
         "label": "Anreise"
       },
       {
-        "href": "/posts",
-        "label": "Presse"
+        "href": "/about",
+        "label": "Über uns"
       },
       {
-        "href": "programm",
-        "label": "Programm"
+        "href": "/posts",
+        "label": "Presse"
       }
     ]
   },
