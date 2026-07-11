@@ -25,12 +25,12 @@
         "label": "Über uns"
       },
       {
-        "href": "kontakt",
-        "label": "Kontakt"
-      },
-      {
         "href": "/posts",
         "label": "Presse"
+      },
+      {
+        "href": "kontakt",
+        "label": "Kontakt"
       }
     ]
   },
